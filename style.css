@@ -29,26 +29,88 @@ color: #1A1A1A;
     color: #1A1A1A;}
 
     .img1 {
-        background-image: url(/figma/img/1.png);
+        background-image: url(./img_2/Rectangle\ 12.png);
         background-size: contain;
         background-repeat: no-repeat;
         grid-row: 5/7;
         grid-column: 2/4; }
+    .text1 {
+        grid-row: 7/8;
+        grid-column: 2/4;
+        width: 544px;
+        height: 87.93px;
+        left: calc(50% - 544px/2 - 315px);
+        top: calc(50% - 87.93px/2 - 125.28px);
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 35px;
+        line-height: 45px;
+        letter-spacing: 0.3px;
+        color: #1A1A1A;
+    }
     .img2 {
         background-image: url(/figma/img/2.png);
         background-size: contain;
         background-repeat: no-repeat;
         grid-row: 6/8;
         grid-column: 5/6; }
+        .text2 {
+            grid-row: 8/9;
+            grid-column: 5/6; 
+height: 87.93px;
+left: 59.61%;
+right: 15.21%;
+top: calc(50% - 87.93px/2 + 21.27px);
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 45px;
+letter-spacing: 0.3px;
+color: #1A1A1A;
+        }
     .img3 {
         background-image: url(/figma/img/3.png);
         background-size: contain;
         background-repeat: no-repeat;
         grid-row: 9/11;
         grid-column: 2/3; }
+        .text3 {
+        grid-row: 11/12;
+        grid-column: 2/3;
+        height: 87.93px;
+        left: 9.24%;
+        right: 65.58%;
+        top: calc(50% - 87.93px/2 + 589.9px);
+
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 35px;
+        line-height: 45px;
+        letter-spacing: 0.3px;
+        color: #1A1A1A;
+        }
     .img4 {
         background-image: url(/figma/img/4.png);
         background-size: contain;
         background-repeat: no-repeat;
         grid-row: 10/12;
         grid-column: 4/6; }
+        .text4 {
+            grid-row: 12/13;
+        grid-column: 4/6;
+height: 87.93px;
+left: 47.01%;
+right: 15.21%;
+top: calc(50% - 87.93px/2 + 767.72px);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 45px;
+letter-spacing: 0.3px;
+color: #1A1A1A;
+        }
